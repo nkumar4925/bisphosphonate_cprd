@@ -13,7 +13,6 @@ This repository is cited within the manuscript and serves as supplementary mater
 ## Contents
 
 ### Code lists (Table S1)
-Located in `codelists/`:
 - `fragility_fractures_cprd_medcodes.csv`
 - `fragility_fractures_icd10_codes.csv`
 - `atypical_fractures_cprd_medcodes.csv`
@@ -23,7 +22,6 @@ Located in `codelists/`:
 The CSVs contain the codelists used to 
 
 ### Analytic code
-Located in `code/`:
 - `00_setup.do` – sets the project directory
 - `ONJanalysis_3yr.do` – 3-year treatment cohort workflow
 - `ONJanalysis_5yr.do` – 5-year treatment cohort workflow
