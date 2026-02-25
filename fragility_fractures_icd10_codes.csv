@@ -1,0 +1,142 @@
+code_system,icd10_code,description,site
+ICD-10,M80,Osteoporosis with pathological fracture,
+ICD-10,M80.0,Postmenopausal osteoporosis with pathological fracture,
+ICD-10,M80.00,Postmenopausal osteoporosis with pathological fracture,Multiple sites
+ICD-10,M80.01,Postmenopausal osteoporosis with pathological fracture,Shoulder region
+ICD-10,M80.02,Postmenopausal osteoporosis with pathological fracture,Upper arm
+ICD-10,M80.03,Postmenopausal osteoporosis with pathological fracture,Forearm
+ICD-10,M80.05,Postmenopausal osteoporosis with pathological fracture,Pelvic region and thigh
+ICD-10,M80.08,Postmenopausal osteoporosis with pathological fracture,Other
+ICD-10,M80.09,Postmenopausal osteoporosis with pathological fracture,Site unspecified
+ICD-10,M80.1,Postoophorectomy osteoporosis with pathological fracture,
+ICD-10,M80.10,Postoophorectomy osteoporosis with pathological fracture,Multiple sites
+ICD-10,M80.11,Postoophorectomy osteoporosis with pathological fracture,Shoulder region
+ICD-10,M80.12,Postoophorectomy osteoporosis with pathological fracture,Upper arm
+ICD-10,M80.13,Postoophorectomy osteoporosis with pathological fracture,Forearm
+ICD-10,M80.15,Postoophorectomy osteoporosis with pathological fracture,Pelvic region and thigh
+ICD-10,M80.18,Postoophorectomy osteoporosis with pathological fracture,Other
+ICD-10,M80.19,Postoophorectomy osteoporosis with pathological fracture,Site unspecified
+ICD-10,M80.21,Osteoporosis of disuse with pathological fracture,Shoulder region
+ICD-10,M80.22,Osteoporosis of disuse with pathological fracture,Upper arm
+ICD-10,M80.23,Osteoporosis of disuse with pathological fracture,Forearm
+ICD-10,M80.25,Osteoporosis of disuse with pathological fracture,Pelvic region and thigh
+ICD-10,M80.3,Postsurgical malabsorption osteoporosis with pathological fracture,
+ICD-10,M80.30,Postsurgical malabsorption osteoporosis with pathological fracture,Multiple sites
+ICD-10,M80.31,Postsurgical malabsorption osteoporosis with pathological fracture,Shoulder region
+ICD-10,M80.32,Postsurgical malabsorption osteoporosis with pathological fracture,Upper arm
+ICD-10,M80.33,Postsurgical malabsorption osteoporosis with pathological fracture,Forearm
+ICD-10,M80.35,Postsurgical malabsorption osteoporosis with pathological fracture,Pelvic region and thigh
+ICD-10,M80.38,Postsurgical malabsorption osteoporosis with pathological fracture,Other
+ICD-10,M80.39,Postsurgical malabsorption osteoporosis with pathological fracture,Site unspecified
+ICD-10,M80.4,Drug-induced osteoporosis with pathological fracture,
+ICD-10,M80.40,Drug-induced osteoporosis with pathological fracture,Multiple sites
+ICD-10,M80.41,Drug-induced osteoporosis with pathological fracture,Shoulder region
+ICD-10,M80.42,Drug-induced osteoporosis with pathological fracture,Upper arm
+ICD-10,M80.43,Drug-induced osteoporosis with pathological fracture,Forearm
+ICD-10,M80.45,Drug-induced osteoporosis with pathological fracture,Pelvic region and thigh
+ICD-10,M80.48,Drug-induced osteoporosis with pathological fracture,Other
+ICD-10,M80.49,Drug-induced osteoporosis with pathological fracture,Site unspecified
+ICD-10,M80.5,Idiopathic osteoporosis with pathological fracture,
+ICD-10,M80.50,Idiopathic osteoporosis with pathological fracture,Multiple sites
+ICD-10,M80.51,Idiopathic osteoporosis with pathological fracture,Shoulder region
+ICD-10,M80.52,Idiopathic osteoporosis with pathological fracture,Upper arm
+ICD-10,M80.53,Idiopathic osteoporosis with pathological fracture,Forearm
+ICD-10,M80.55,Idiopathic osteoporosis with pathological fracture,Pelvic region and thigh
+ICD-10,M80.58,Idiopathic osteoporosis with pathological fracture,Other
+ICD-10,M80.59,Idiopathic osteoporosis with pathological fracture,Site unspecified
+ICD-10,M80.8,Other osteoporosis with pathological fracture,
+ICD-10,M80.80,Other osteoporosis with pathological fracture,Multiple sites
+ICD-10,M80.81,Other osteoporosis with pathological fracture,Shoulder region
+ICD-10,M80.82,Other osteoporosis with pathological fracture,Upper arm
+ICD-10,M80.83,Other osteoporosis with pathological fracture,Forearm
+ICD-10,M80.85,Other osteoporosis with pathological fracture,Pelvic region and thigh
+ICD-10,M80.88,Other osteoporosis with pathological fracture,Other
+ICD-10,M80.89,Other osteoporosis with pathological fracture,Site unspecified
+ICD-10,M80.9,Unspecified osteoporosis with pathological fracture,
+ICD-10,M80.90,Unspecified osteoporosis with pathological fracture,Multiple sites
+ICD-10,M80.91,Unspecified osteoporosis with pathological fracture,Shoulder region
+ICD-10,M80.92,Unspecified osteoporosis with pathological fracture,Upper arm
+ICD-10,M80.93,Unspecified osteoporosis with pathological fracture,Forearm
+ICD-10,M80.95,Unspecified osteoporosis with pathological fracture,Pelvic region and thigh
+ICD-10,M80.98,Unspecified osteoporosis with pathological fracture,Other
+ICD-10,M80.99,Unspecified osteoporosis with pathological fracture,Site unspecified
+ICD-10,S22.0,Fracture of thoracic vertebra,
+ICD-10,S22.00,Fracture of thoracic vertebra,closed
+ICD-10,S22.01,Fracture of thoracic vertebra,open
+ICD-10,S22.1,Multiple fractures of thoracic spine,
+ICD-10,S22.10,Multiple fractures of thoracic spine,closed
+ICD-10,S22.11,Multiple fractures of thoracic spine,open
+ICD-10,S32,Fracture of lumbar spine and pelvis,
+ICD-10,S32.0,Fracture of lumbar vertebra,
+ICD-10,S32.00,Fracture of lumbar vertebra,closed
+ICD-10,S32.01,Fracture of lumbar vertebra,open
+ICD-10,S32.7,Multiple fractures of lumbar spine and pelvis,
+ICD-10,S32.70,Multiple fractures of lumbar spine and pelvis,closed
+ICD-10,S32.71,Multiple fractures of lumbar spine and pelvis,open
+ICD-10,S32.8,Fracture of other and unspecified parts of lumbar spine and pelvis,
+ICD-10,S32.80,Fracture of other and unspecified parts of lumbar spine and pelvis,closed
+ICD-10,S32.81,Fracture of other and unspecified parts of lumbar spine and pelvis,open
+ICD-10,S42,Fracture of shoulder and upper arm,
+ICD-10,S42.2,Fracture of upper end of humerus,
+ICD-10,S42.20,Fracture of upper end of humerus,closed
+ICD-10,S42.21,Fracture of upper end of humerus,open
+ICD-10,S42.3,Fracture of shaft of humerus,
+ICD-10,S42.30,Fracture of shaft of humerus,closed
+ICD-10,S42.31,Fracture of shaft of humerus,open
+ICD-10,S42.4,Fracture of lower end of humerus,
+ICD-10,S42.40,Fracture of lower end of humerus,closed
+ICD-10,S42.41,Fracture of lower end of humerus,open
+ICD-10,S42.7,"Multiple fractures of clavicle, scapula and humerus",
+ICD-10,S42.70,"Multiple fractures of clavicle, scapula and humerus",closed
+ICD-10,S42.71,"Multiple fractures of clavicle, scapula and humerus",open
+ICD-10,S42.8,Fracture of other parts of shoulder and upper arm,
+ICD-10,S42.80,Fracture of other parts of shoulder and upper arm,closed
+ICD-10,S42.81,Fracture of other parts of shoulder and upper arm,open
+ICD-10,S52,Fracture of forearm,
+ICD-10,S52.5,Fracture of lower end of radius,
+ICD-10,S52.50,Fracture of lower end of radius,closed
+ICD-10,S52.51,Fracture of lower end of radius,open
+ICD-10,S52.6,Fracture of lower end of both ulna and radius,
+ICD-10,S52.60,Fracture of lower end of both ulna and radius,closed
+ICD-10,S52.61,Fracture of lower end of both ulna and radius,open
+ICD-10,S52.7,Multiple fractures of forearm,
+ICD-10,S52.70,Multiple fractures of forearm,closed
+ICD-10,S52.71,Multiple fractures of forearm,open
+ICD-10,S52.8,Fracture of other parts of forearm,
+ICD-10,S52.80,Fracture of other parts of forearm,closed
+ICD-10,S52.81,Fracture of other parts of forearm,open
+ICD-10,S52.9,"Fracture of forearm, part unspecified",
+ICD-10,S52.90,"Fracture of forearm, part unspecified",closed
+ICD-10,S52.91,"Fracture of forearm, part unspecified",open
+ICD-10,S62,Fracture at wrist and hand level,
+ICD-10,S62.8,Fracture of other and unspecified parts of wrist and hand,
+ICD-10,S62.80,Fracture of other and unspecified parts of wrist and hand,closed
+ICD-10,S62.81,Fracture of other and unspecified parts of wrist and hand,open
+ICD-10,S72,Fracture of femur,
+ICD-10,S72.0,Fracture of neck of femur,
+ICD-10,S72.00,Fracture of neck of femur,closed
+ICD-10,S72.01,Fracture of neck of femur,open
+ICD-10,S72.1,Pertrochanteric fracture,
+ICD-10,S72.10,Pertrochanteric fracture,closed
+ICD-10,S72.11,Pertrochanteric fracture,open
+ICD-10,S72.2,Subtrochanteric fracture,
+ICD-10,S72.20,Subtrochanteric fracture,closed
+ICD-10,S72.21,Subtrochanteric fracture,open
+ICD-10,S72.7,Multiple fractures of femur,
+ICD-10,S72.70,Multiple fractures of femur,closed
+ICD-10,S72.71,Multiple fractures of femur,open
+ICD-10,S72.8,Fractures of other parts of femur,
+ICD-10,S72.80,Fractures of other parts of femur,closed
+ICD-10,S72.81,Fractures of other parts of femur,open
+ICD-10,S72.9,"Fracture of femur, part unspecified",
+ICD-10,S72.90,"Fracture of femur, part unspecified",closed
+ICD-10,S72.91,"Fracture of femur, part unspecified",open
+ICD-10,T02.1,Fractures involving thorax with lower back and pelvis,
+ICD-10,T02.10,Fractures involving thorax with lower back and pelvis,closed
+ICD-10,T02.11,Fractures involving thorax with lower back and pelvis,open
+ICD-10,T02.7,Fractures involving thorax with lower back and pelvis with limb(s),
+ICD-10,T02.70,Fractures involving thorax with lower back and pelvis with limb(s),closed
+ICD-10,T02.71,Fractures involving thorax with lower back and pelvis with limb(s),open
+ICD-10,T08,"Fracture of spine, level unspecified",
+ICD-10,T08.X0,"Fracture of spine, level unspecified",closed
+ICD-10,T08.X1,"Fracture of spine, level unspecified",open

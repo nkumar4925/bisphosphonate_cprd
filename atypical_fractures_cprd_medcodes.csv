@@ -1,0 +1,12 @@
+code_system,medcode_id,description
+CPRD_medcode,319124014,"Closed fracture proximal femur, subtrochanteric"
+CPRD_medcode,391392015,Subtrochanteric fracture
+CPRD_medcode,4843911000006117,Closed subtrochanteric fracture of femur
+CPRD_medcode,5462321000006110,Subtrochanteric fracture of femur
+CPRD_medcode,3135821000006113,Reduction of closed humeral shaft fracture with manipulation
+CPRD_medcode,318775013,"Closed fracture of humerus, shaft or unspecified part NOS"
+CPRD_medcode,3966821000006110,Closed fracture of shaft of humerus
+CPRD_medcode,7585961000006118,Stress fracture of shaft of femur
+CPRD_medcode,84797011,Fracture of shaft of humerus
+CPRD_medcode,990961000006119,#Humerus - shaft
+CPRD_medcode,895491000006115,#humerus - shaft

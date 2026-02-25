@@ -1,0 +1,539 @@
+code_system,medcode_id,description
+CPRD_medcode,276469011,Anterior decompression of fracture of spine
+CPRD_medcode,5964821000006114,Anterior wedge fracture of vertebra
+CPRD_medcode,7701301000006118,Arthroscopic primary reduction and fixation of fracture of neck of femur using dynamic hip screw
+CPRD_medcode,4214001000006116,Arthroscopy of wrist with internal fixation for fracture
+CPRD_medcode,7531571000006112,Avulsion fracture of medial epicondyle of humerus
+CPRD_medcode,2674037014,Balloon kyphoplasty of fracture of spine
+CPRD_medcode,503551000006112,Barr skull traction for fracture of spine
+CPRD_medcode,3386781000006111,Barton's fracture
+CPRD_medcode,5462311000006119,Basal cervical fracture of neck of femur
+CPRD_medcode,5462301000006117,Basicervical fracture of neck of femur
+CPRD_medcode,5657771000006116,Burst fracture of cervical vertebra
+CPRD_medcode,5657991000006118,Burst fracture of lumbar vertebra
+CPRD_medcode,5657881000006111,Burst fracture of thoracic vertebra
+CPRD_medcode,6048931000006112,Burst fracture of vertebra
+CPRD_medcode,7059491000006114,Chauffeur's fracture
+CPRD_medcode,557961000006116,Cl red intracaps frac neck femur fix-Garden cannulated screw
+CPRD_medcode,7058191000006111,Closed avulsion fracture of greater trochanter of femur
+CPRD_medcode,5971981000006111,Closed Barton fracture
+CPRD_medcode,451061019,Closed Barton's fracture
+CPRD_medcode,402859019,Closed Colles' fracture
+CPRD_medcode,4842291000006112,Closed dorsal Barton fracture
+CPRD_medcode,561311000006117,Closed dorsal Barton fracture-subluxation
+CPRD_medcode,559791000006116,Closed dorsal Barton's fracture
+CPRD_medcode,561321000006113,Closed dorsal Barton's fracture-dislocation
+CPRD_medcode,318859016,Closed extraarticular fracture of distal radius
+CPRD_medcode,565251000006112,Closed fracture dislocation distal radioulnar joint
+CPRD_medcode,4849521000006117,Closed fracture dislocation of hip joint
+CPRD_medcode,319961016,Closed fracture dislocation of wrist
+CPRD_medcode,4848921000006116,Closed fracture dislocation radiocarpal joint
+CPRD_medcode,565451000006113,"Closed fracture dislocation, hip joint"
+CPRD_medcode,318790012,"Closed fracture distal humerus, bicondylar (T-Y fracture)"
+CPRD_medcode,318789015,"Closed fracture distal humerus, capitellum"
+CPRD_medcode,318784013,"Closed fracture distal humerus, lateral condyle"
+CPRD_medcode,318788011,"Closed fracture distal humerus, lateral epicondyle"
+CPRD_medcode,1222634011,"Closed fracture distal humerus, medial epicondyle"
+CPRD_medcode,1231853014,"Closed fracture distal humerus, supracondylar"
+CPRD_medcode,318858012,"Closed fracture distal radius, intra-articular, die-punch"
+CPRD_medcode,318862018,"Closed fracture distal radius, intra-articular, other type"
+CPRD_medcode,319090013,Closed fracture head of femur
+CPRD_medcode,14198701000006111,Closed fracture involving thorax with lower back and pelvis and limbs 2
+CPRD_medcode,562351000006114,Closed fracture involving thorax wth lower back and pelvis and limbs
+CPRD_medcode,318454018,Closed fracture lumbar vertebra
+CPRD_medcode,318455017,"Closed fracture lumbar vertebra, burst"
+CPRD_medcode,318460018,"Closed fracture lumbar vertebra, posterior arch"
+CPRD_medcode,318458015,"Closed fracture lumbar vertebra, spinous process"
+CPRD_medcode,318457013,"Closed fracture lumbar vertebra, spondylolysis"
+CPRD_medcode,318459011,"Closed fracture lumbar vertebra, transverse process"
+CPRD_medcode,318461019,"Closed fracture lumbar vertebra, tricolumnar"
+CPRD_medcode,318456016,"Closed fracture lumbar vertebra, wedge"
+CPRD_medcode,4841801000006113,Closed fracture of anatomical neck of humerus
+CPRD_medcode,564391000006113,Closed fracture of base of neck of femur
+CPRD_medcode,2525641000006118,Closed fracture of cervicotrochanteric section of femur
+CPRD_medcode,3813561000006116,Closed fracture of condyle of humerus
+CPRD_medcode,3070931000006119,Closed fracture of distal end of forearm
+CPRD_medcode,5510011000006110,Closed fracture of distal end of humerus
+CPRD_medcode,402860012,Closed fracture of distal end of radius
+CPRD_medcode,318846012,closed fracture of distal end of ulna
+CPRD_medcode,318786010,"Closed fracture of distal humerus, condyle(s) unspecified"
+CPRD_medcode,318791011,"Closed fracture of distal humerus, multiple"
+CPRD_medcode,318792016,"Closed fracture of distal humerus, not otherwise specified"
+CPRD_medcode,318787018,"Closed fracture of distal humerus, trochlea"
+CPRD_medcode,411307011,"Closed fracture of femur, greater trochanter"
+CPRD_medcode,411308018,"Closed fracture of femur, lesser trochanter"
+CPRD_medcode,411305015,"Closed fracture of femur, subcapital"
+CPRD_medcode,299771000000110,"Closed fracture of femur, upper epiphysis"
+CPRD_medcode,318838011,"Closed fracture of forearm, lower end, unspecified"
+CPRD_medcode,9383621000006111,Closed fracture of fourth lumbar vertebra
+CPRD_medcode,5572321000006113,Closed fracture of greater trochanter of femur
+CPRD_medcode,4843731000006114,Closed fracture of head of femur
+CPRD_medcode,564541000006113,Closed fracture of head of humerus
+CPRD_medcode,13712711000006119,Closed fracture of head of left femur
+CPRD_medcode,2598311000006113,Closed fracture of head of ulna
+CPRD_medcode,6206851000006110,Closed fracture of hip
+CPRD_medcode,318773018,Closed fracture of humerus
+CPRD_medcode,318774012,Closed fracture of humerus NOS
+CPRD_medcode,1235549012,"Closed fracture of humerus, shaft"
+CPRD_medcode,318775013,"Closed fracture of humerus, shaft or unspecified part NOS"
+CPRD_medcode,318755016,"Closed fracture of humerus, upper epiphysis"
+CPRD_medcode,570541000006112,Closed fracture of intracapsular section of femur
+CPRD_medcode,5572341000006118,Closed fracture of lesser trochanter of femur
+CPRD_medcode,318864017,Closed fracture of lower end of forearm
+CPRD_medcode,5510001000006112,Closed fracture of lower end of humerus
+CPRD_medcode,2773201000006116,Closed fracture of lower end of radius
+CPRD_medcode,3034241000006111,Closed fracture of lower end of radius AND ulna 3
+CPRD_medcode,318556018,Closed fracture of lumbar spine with spinal cord lesion
+CPRD_medcode,3305281000006114,Closed fracture of lumbar vertebra with spinal cord injury
+CPRD_medcode,318785014,Closed fracture of medial condyle of humerus
+CPRD_medcode,13716941000006116,Closed fracture of metaphysis of distal end of left radius
+CPRD_medcode,13716951000006119,Closed fracture of metaphysis of distal end of right radius
+CPRD_medcode,402874017,Closed fracture of neck of femur
+CPRD_medcode,3691131000006111,Closed fracture of neck of humerus
+CPRD_medcode,3187271000006113,Closed fracture of proximal end of humerus
+CPRD_medcode,319118015,"Closed fracture of proximal femur, pertrochanteric"
+CPRD_medcode,318758019,Closed fracture of proximal humerus not otherwise specified
+CPRD_medcode,318752018,"Closed fracture of proximal humerus, anatomical neck"
+CPRD_medcode,485443016,"Closed fracture of radius and ulna, lower end"
+CPRD_medcode,9383571000006113,Closed fracture of second lumbar vertebra
+CPRD_medcode,3966821000006110,Closed fracture of shaft of humerus
+CPRD_medcode,318599011,Closed fracture of spine with spinal cord lesion unspecified
+CPRD_medcode,3160991000006117,Closed fracture of styloid process of ulna
+CPRD_medcode,3691121000006113,Closed fracture of surgical neck of humerus
+CPRD_medcode,2630601000006119,Closed fracture of T7-T12 level with central cord syndrome
+CPRD_medcode,3679141000006111,Closed fracture of T7-T12 level with spinal cord injury
+CPRD_medcode,402854012,Closed fracture of the distal humerus
+CPRD_medcode,1229897016,Closed fracture of the proximal humerus
+CPRD_medcode,9383601000006118,Closed fracture of third lumbar vertebra
+CPRD_medcode,3215821000006117,Closed fracture of thoracic region with spinal cord injury
+CPRD_medcode,563961000006116,Closed fracture of thoracic spine with cord lesion NOS
+CPRD_medcode,318528011,Closed fracture of thoracic spine with spinal cord lesion
+CPRD_medcode,318845011,"Closed fracture of ulna, lower epiphysis"
+CPRD_medcode,1229710011,"Closed fracture of ulna, styloid process"
+CPRD_medcode,318750014,Closed fracture of upper end of humerus
+CPRD_medcode,318493010,Closed fracture of vertebral column
+CPRD_medcode,54541000006116,closed fracture of wrist
+CPRD_medcode,570561000006111,"Closed fracture proximal femur, intertrochanteric, comminuted"
+CPRD_medcode,319123015,"Closed fracture proximal femur, intertrochanteric, two part"
+CPRD_medcode,319087019,"Closed fracture proximal femur, midcervical section"
+CPRD_medcode,402869013,"Closed fracture proximal femur, other transcervical"
+CPRD_medcode,319092017,"Closed fracture proximal femur, subcapital, Garden grade I"
+CPRD_medcode,319093010,"Closed fracture proximal femur, subcapital, Garden grade II"
+CPRD_medcode,319094016,"Closed fracture proximal femur, subcapital, Garden grade III"
+CPRD_medcode,319095015,"Closed fracture proximal femur, subcapital, Garden grade IV"
+CPRD_medcode,319124014,"Closed fracture proximal femur, subtrochanteric"
+CPRD_medcode,319084014,"Closed fracture proximal femur, transcervical"
+CPRD_medcode,564491000006115,"Closed fracture proximal femur, transcervical, NOS"
+CPRD_medcode,319086011,"Closed fracture proximal femur, transepiphyseal"
+CPRD_medcode,318757012,"Closed fracture proximal humerus, four part"
+CPRD_medcode,318753011,"Closed fracture proximal humerus, greater tuberosity 4"
+CPRD_medcode,318751013,"Closed fracture proximal humerus, neck"
+CPRD_medcode,318756015,"Closed fracture proximal humerus, three part"
+CPRD_medcode,318857019,Closed fracture radial styloid
+CPRD_medcode,1490703015,"Closed fracture radius and ulna, distal"
+CPRD_medcode,4849091000006114,Closed fracture subluxation of distal radioulnar joint
+CPRD_medcode,4849551000006114,Closed fracture subluxation of hip joint
+CPRD_medcode,565671000006117,Closed fracture subluxation of the wrist
+CPRD_medcode,4849101000006115,Closed fracture subluxation radiocarpal joint
+CPRD_medcode,318435018,Closed fracture thoracic vertebra
+CPRD_medcode,318445016,Closed fracture thoracic vertebra not otherwise specified
+CPRD_medcode,318436017,"Closed fracture thoracic vertebra, burst"
+CPRD_medcode,318441013,"Closed fracture thoracic vertebra, posterior arch"
+CPRD_medcode,318439012,"Closed fracture thoracic vertebra, spinous process"
+CPRD_medcode,318438016,"Closed fracture thoracic vertebra, spondylolysis"
+CPRD_medcode,318440014,"Closed fracture thoracic vertebra, transverse process"
+CPRD_medcode,318442018,"Closed fracture thoracic vertebra, tricolumnar"
+CPRD_medcode,318437014,"Closed fracture thoracic vertebra, wedge"
+CPRD_medcode,565211000006111,"Closed fracture, base of neck of femur"
+CPRD_medcode,565381000006114,Closed fracture-dislocation radiocarpal joint
+CPRD_medcode,565711000006118,Closed fracture-subluxation radiocarpal joint
+CPRD_medcode,565781000006113,"Closed fracture-subluxation, distal radio-ulnar jt"
+CPRD_medcode,565801000006112,"Closed fracture-subluxation, hip joint"
+CPRD_medcode,318850017,Closed Galeazzi fracture
+CPRD_medcode,562981000006117,Closed intertrochanteric fracture
+CPRD_medcode,6009791000006112,Closed multiple fractures of clavicle and/or scapula and/or humerus
+CPRD_medcode,455446019,"Closed multiple fractures of clavicle, scapula and humerus"
+CPRD_medcode,455444016,Closed multiple fractures of thoracic spine
+CPRD_medcode,7641321000006110,Closed reduction and dynamic hip screw of fracture of femur
+CPRD_medcode,3513038014,Closed reduction and dynamic hip screw of fracture of left femur
+CPRD_medcode,3513041017,Closed reduction and dynamic hip screw of fracture of right femur
+CPRD_medcode,570611000006114,Closed reduction and internal fixation of proximal femoral fracture with Richard's cannulated hip screw
+CPRD_medcode,7641281000006116,Closed reduction and nailing of fracture of proximal femur
+CPRD_medcode,7642271000006110,Closed reduction and percutaneous K-wire fixation of fracture of distal radius
+CPRD_medcode,7642261000006115,Closed reduction of fracture of distal radius and percutaneous fixation using Kirschner wire
+CPRD_medcode,7641311000006119,Closed reduction of fracture of femur and internal fixation using dynamic hip screw plate
+CPRD_medcode,7230571000006114,Closed reduction of fracture of greater trochanter
+CPRD_medcode,7248381000006115,Closed reduction of fracture of greater tuberosity of humerus
+CPRD_medcode,7235221000006119,Closed reduction of fracture of head of femur
+CPRD_medcode,277185016,Closed reduction of fracture of hip
+CPRD_medcode,66948017,Closed reduction of fracture of humerus
+CPRD_medcode,7239291000006119,Closed reduction of fracture of lateral condyle of humerus 5
+CPRD_medcode,3513039018,Closed reduction of fracture of left femur and internal fixation using dynamic hip screw plate
+CPRD_medcode,7641271000006119,Closed reduction of fracture of proximal femur and internal fixation using bone nail
+CPRD_medcode,570621000006118,Closed reduction of fracture of proximal femur and internal fixation using bone screw
+CPRD_medcode,7641211000006111,Closed reduction of fracture of proximal femur and internal fixation using bone wire
+CPRD_medcode,3513042012,Closed reduction of fracture of right femur and internal fixation using dynamic hip screw plate
+CPRD_medcode,4424191000006115,Closed reduction of fracture of vertebral body
+CPRD_medcode,277200019,Closed reduction of fracture of wrist
+CPRD_medcode,7235201000006112,Closed reduction of intertrochanteric fracture of femur
+CPRD_medcode,557971000006111,Closed reduction of intracapsular fracture of neck of femur and fixation using Smith-Petersen nail
+CPRD_medcode,567461000006115,Closed reduction of intracapsular fracture of neck of femur and internal fixation using a dynamic hip screw
+CPRD_medcode,7236281000006111,Closed reduction of peritrochanteric fracture of femur
+CPRD_medcode,4353801000006114,Closed reverse Colles' fracture
+CPRD_medcode,14196721000006117,Closed Smith's fracture
+CPRD_medcode,318849017,Closed Smith's fracture
+CPRD_medcode,318559013,Closed spinal fracture with anterior lumbar cord lesion
+CPRD_medcode,570851000006111,"Closed spinal fracture with anterior thoracic cord lesion, T1-6"
+CPRD_medcode,570691000006116,"Closed spinal fracture with anterior thoracic cord lesion,T7-12"
+CPRD_medcode,318562011,Closed spinal fracture with cauda equina lesion
+CPRD_medcode,318560015,Closed spinal fracture with central lumbar cord lesion
+CPRD_medcode,570721000006114,"Closed spinal fracture with central thoracic cord lesion, T1-6"
+CPRD_medcode,570731000006112,"Closed spinal fracture with central thoracic cord lesion, T7-12"
+CPRD_medcode,318558017,Closed spinal fracture with complete lumbar cord lesion
+CPRD_medcode,570861000006113,"Closed spinal fracture with complete thoracic cord lesion, T1-6"
+CPRD_medcode,570761000006115,"Closed spinal fracture with complete thoracic cord lesion,T7-12"
+CPRD_medcode,318561016,Closed spinal fracture with posterior lumbar cord lesion
+CPRD_medcode,570791000006111,"Closed spinal fracture with posterior thoracic cord lesion, T1-6"
+CPRD_medcode,570801000006112,"Closed spinal fracture with posterior thoracic cord lesion, T7-12"
+CPRD_medcode,318557010,Closed spinal fracture with unspecified lumbar cord lesion
+CPRD_medcode,5572281000006119,Closed subcapital fracture of femur
+CPRD_medcode,7590421000006110,Closed subcapital fracture of neck of femur
+CPRD_medcode,4843911000006117,Closed subtrochanteric fracture of femur
+CPRD_medcode,3451541000006117,Closed supracondylar fracture of humerus
+CPRD_medcode,569501000006112,Closed volar Barton fracture-subluxation
+CPRD_medcode,318851018,Closed volar Barton's fracture
+CPRD_medcode,569521000006119,Closed volar Barton's fracture-dislocation
+CPRD_medcode,570531000006119,"Cls # of proximal femur, pertrochanteric section, NOS"
+CPRD_medcode,570551000006114,"Cls # prox femur, subcapital, Garden grade unspec."
+CPRD_medcode,570571000006116,"Cls # proximal femur, trochanteric section, unspecified"
+CPRD_medcode,570651000006110,"Cls spinal # with incomplete thoracic cord lesion, T1-6 NOS 6"
+CPRD_medcode,570661000006112,"Cls spinal # with incomplete thoracid cord lesion, T7-12 NOS"
+CPRD_medcode,570831000006116,"Cls spinal fracture with unspec thoracic cord lesion, T7-12"
+CPRD_medcode,570841000006114,"Cls spinal fracture with unspec thoracic cord lesion,T1-6"
+CPRD_medcode,452080019,Collapse of cervical vertebra
+CPRD_medcode,455433012,Collapse of cervical vertebra due to osteoporosis
+CPRD_medcode,452081015,Collapse of lumbar vertebra
+CPRD_medcode,572171000006113,Collapse of lumbar vertebra
+CPRD_medcode,455534015,Collapse of lumbar vertebra due to osteoporosis
+CPRD_medcode,359835018,Collapse of spine NOS
+CPRD_medcode,452079017,Collapse of thoracic vertebra
+CPRD_medcode,572221000006119,Collapse of thoracic vertebra
+CPRD_medcode,455535019,Collapse of thoracic vertebra due to osteoporosis
+CPRD_medcode,359834019,Collapse of vertebra
+CPRD_medcode,455536018,Collapse of vertebra due to osteoporosis
+CPRD_medcode,5657751000006114,Collapse wedge fracture of cervical vertebra
+CPRD_medcode,5657971000006119,Collapse wedge fracture of lumbar vertebra
+CPRD_medcode,5657861000006118,Collapse wedge fracture of thoracic vertebra
+CPRD_medcode,3868741000006117,Collapsed vertebra
+CPRD_medcode,451464018,Collapsed vertebra NOS
+CPRD_medcode,895561000006112,Colles fracture
+CPRD_medcode,4358241000006117,Colles' fracture
+CPRD_medcode,276468015,Complex decompression of fracture of spine
+CPRD_medcode,2849061000006112,Compression fracture
+CPRD_medcode,7276821000006110,Compression fracture
+CPRD_medcode,11049591000006112,Compression fracture of L2
+CPRD_medcode,7062291000006110,Compression fracture of lumbar spine
+CPRD_medcode,11049601000006116,Compression fracture of second lumbar vertebra
+CPRD_medcode,3192381000006119,Compression fracture of spine
+CPRD_medcode,7504191000006113,Compression fracture of thoracic spine
+CPRD_medcode,3192371000006117,Compression fracture of vertebral column
+CPRD_medcode,13967421000006114,Crush fracture
+CPRD_medcode,5657761000006111,Crush fracture of cervical vertebra
+CPRD_medcode,5657981000006116,Crush fracture of lumbar vertebra
+CPRD_medcode,5657871000006113,Crush fracture of thoracic vertebra
+CPRD_medcode,276467013,Decompression of fracture of spine
+CPRD_medcode,276474015,Decompression of fracture of spine NOS
+CPRD_medcode,358600013,DHS - Dynamic hip screw primary fixation of neck of femur
+CPRD_medcode,7701311000006115,DHS - Dynamic hip screw primary fixation of neck of femur using arthroscopy
+CPRD_medcode,5462041000006117,Dorsal Barton fracture
+CPRD_medcode,5462031000006110,Dorsal Barton's fracture
+CPRD_medcode,312159013,Drug-induced osteoporosis with pathological fracture
+CPRD_medcode,632631000006110,"Dupuytren's fracture, radius - closed"
+CPRD_medcode,4396061000006115,Extracapsular fracture of neck of femur
+CPRD_medcode,2593851000006113,Femoral neck fracture 7
+CPRD_medcode,761201000006112,Fixation of fracture of spine and skull traction HFQ
+CPRD_medcode,276583011,Fixation of fracture of spine NOS
+CPRD_medcode,276566019,Fixation of fracture of spine using Harrington rod
+CPRD_medcode,9707731000006110,Fixation of intertrochanteric fracture of femur using nail
+CPRD_medcode,761191000006114,Fixation of spinal fracture
+CPRD_medcode,318936014,Fracture at wrist and hand level
+CPRD_medcode,387591000006110,Fracture at wrist and/or hand level
+CPRD_medcode,5965301000006112,Fracture dislocation distal radioulnar joint
+CPRD_medcode,5460481000006118,Fracture dislocation of cervical spine
+CPRD_medcode,5657691000006110,Fracture dislocation of cervicothoracic junction
+CPRD_medcode,5657701000006110,Fracture dislocation of lumbosacral junction
+CPRD_medcode,5657681000006112,Fracture dislocation of thoracolumbar junction
+CPRD_medcode,5460591000006116,Fracture dislocation of wrist joint
+CPRD_medcode,793921000006113,Fracture dislocation or subluxation of wrist
+CPRD_medcode,7312801000006116,Fracture of body of vertebra
+CPRD_medcode,7530861000006113,Fracture of bone of hip region
+CPRD_medcode,5461911000006114,Fracture of distal end of humerus
+CPRD_medcode,5461991000006116,Fracture of distal end of radius
+CPRD_medcode,5462121000006113,Fracture of distal end of radius and ulna
+CPRD_medcode,5462081000006111,Fracture of distal end of ulna
+CPRD_medcode,895571000006117,Fracture of distal end of ulna
+CPRD_medcode,7817211000006117,Fracture of eighth thoracic vertebra
+CPRD_medcode,7817241000006118,Fracture of eleventh thoracic vertebra
+CPRD_medcode,7818591000006112,Fracture of fifth lumbar vertebra
+CPRD_medcode,7818521000006110,Fracture of first lumbar vertebra
+CPRD_medcode,5888201000006117,Fracture of greater trochanter
+CPRD_medcode,7957581000006111,Fracture of greater tuberosity of humerus
+CPRD_medcode,7956181000006115,Fracture of head of femur
+CPRD_medcode,2593861000006110,Fracture of hip
+CPRD_medcode,110116013,Fracture of humerus
+CPRD_medcode,318810015,Fracture of humerus NOS
+CPRD_medcode,7818541000006115,Fracture of L2 vertebra
+CPRD_medcode,7818561000006116,Fracture of L3 vertebra
+CPRD_medcode,7818581000006114,Fracture of L4 vertebra
+CPRD_medcode,7818601000006116,Fracture of L5 vertebra
+CPRD_medcode,391366010,Fracture of lower end of both ulna and radius
+CPRD_medcode,391345019,Fracture of lower end of humerus
+CPRD_medcode,391354016,Fracture of lower end of radius
+CPRD_medcode,3527286011,Fracture of lower end of radius with dorsal tilt
+CPRD_medcode,3527288012,Fracture of lower end of radius with volar tilt
+CPRD_medcode,4378891000006113,Fracture of lumbar spine
+CPRD_medcode,5560661000006118,Fracture of lumbar spine - no cord lesion
+CPRD_medcode,318485010,Fracture of lumbar spine and pelvis
+CPRD_medcode,4840551000006115,Fracture of lumbar spine and/or pelvis 8
+CPRD_medcode,5560691000006114,Fracture of lumbar spine with cord lesion
+CPRD_medcode,1220724019,Fracture of lumbar vertebra
+CPRD_medcode,7957611000006115,Fracture of medial condyle of humerus
+CPRD_medcode,318729017,Fracture of neck and trunk NOS
+CPRD_medcode,10843018,Fracture of neck of femur
+CPRD_medcode,5461901000006111,Fracture of neck of humerus
+CPRD_medcode,7817221000006113,Fracture of ninth thoracic vertebra
+CPRD_medcode,5657891000006114,Fracture of pedicle of thoracic vertebra
+CPRD_medcode,5462241000006110,Fracture of proximal end of femur
+CPRD_medcode,5652681000006114,Fracture of radial styloid
+CPRD_medcode,84797011,Fracture of shaft of humerus
+CPRD_medcode,3316981000006110,Fracture of spinal vertebra
+CPRD_medcode,3316961000006117,Fracture of spine
+CPRD_medcode,402850015,Fracture of spine with spinal cord lesion
+CPRD_medcode,402832010,Fracture of spine without mention of spinal cord injury
+CPRD_medcode,318495015,Fracture of spine without mention of spinal cord lesion NOS
+CPRD_medcode,7957571000006113,Fracture of surgical neck of humerus
+CPRD_medcode,7817231000006111,Fracture of tenth thoracic vertebra
+CPRD_medcode,5652661000006116,Fracture of the lateral humeral epicondyle
+CPRD_medcode,5652671000006111,Fracture of the medial humeral epicondyle
+CPRD_medcode,7818551000006118,Fracture of third lumbar vertebra
+CPRD_medcode,4378871000006112,Fracture of thoracic spine
+CPRD_medcode,5560681000006111,Fracture of thoracic spine with cord lesion
+CPRD_medcode,5560651000006115,Fracture of thoracic spine without spinal cord lesion
+CPRD_medcode,1220723013,Fracture of thoracic vertebra
+CPRD_medcode,7315291000006119,Fracture of trochanter of femur
+CPRD_medcode,7817251000006116,Fracture of twelfth thoracic vertebra
+CPRD_medcode,5652711000006110,Fracture of ulnar styloid
+CPRD_medcode,3578351000006111,Fracture of upper arm
+CPRD_medcode,3316991000006113,Fracture of vertebra
+CPRD_medcode,402849015,Fracture of vertebra with spinal cord lesion
+CPRD_medcode,402831015,Fracture of vertebra without spinal cord lesion
+CPRD_medcode,312617013,Fracture of vertebral column
+CPRD_medcode,318601013,Fracture of vertebral column with spinal cord injury
+CPRD_medcode,5901941000006111,Fracture subluxation of hip joint
+CPRD_medcode,5460821000006115,Fracture subluxation of wrist
+CPRD_medcode,3317001000006117,Fractured spine
+CPRD_medcode,545121000000114,Fragility fracture
+CPRD_medcode,5526311000006115,Galeazzi fracture dislocation
+CPRD_medcode,5526321000006111,Galeazzi's fracture of radius
+CPRD_medcode,276484019,Halo skull traction for fracture of spine
+CPRD_medcode,391384012,Hip fracture
+CPRD_medcode,391393013,Hip fracture NOS
+CPRD_medcode,312160015,Idiopathic osteoporosis with pathological fracture 9
+CPRD_medcode,411019014,Internal fixation of fracture of spine
+CPRD_medcode,4396051000006117,Intertrochanteric fracture
+CPRD_medcode,4396091000006111,Intertrochanteric fracture of femur
+CPRD_medcode,5462271000006119,Intracapsular fracture of neck of femur
+CPRD_medcode,4684881000006117,Manipulation of spinal fracture
+CPRD_medcode,557111000000111,Minimal trauma fracture
+CPRD_medcode,556881000000111,Minimal trauma fracture due to unspecified osteoporosis
+CPRD_medcode,4841671000006118,Multiple fracture of thoracic vertebrae
+CPRD_medcode,319071017,"Multiple fractures of clavicle, scapula and humerus"
+CPRD_medcode,7957621000006111,Multiple fractures of humerus
+CPRD_medcode,318492017,Multiple fractures of lumbar spine and pelvis
+CPRD_medcode,4840571000006113,Multiple fractures of lumbar spine and/or pelvis
+CPRD_medcode,318725011,Multiple fractures of thoracic spine
+CPRD_medcode,9707741000006117,Nail fixation of intertrochanteric fracture
+CPRD_medcode,2593871000006115,NOF - Fracture of neck of femur
+CPRD_medcode,451060018,Open Barton's fracture
+CPRD_medcode,133435011,Open Colles' fracture
+CPRD_medcode,318887013,Open dorsal Barton's fracture
+CPRD_medcode,261541000006119,Open dorsal Barton's fracture-dislocation
+CPRD_medcode,318890019,Open extra-articular fracture of distal radius
+CPRD_medcode,4849021000006112,Open fracture dislocation radiocarpal joint
+CPRD_medcode,319970018,Open fracture dislocation wrist
+CPRD_medcode,318804015,"Open fracture distal humerus, bicondylar (T-Y fracture)"
+CPRD_medcode,318803014,"Open fracture distal humerus, capitellum"
+CPRD_medcode,318802016,"Open fracture distal humerus, lateral epicondyle"
+CPRD_medcode,1230477016,"Open fracture distal humerus, medial epicondyle"
+CPRD_medcode,1232322015,"Open fracture distal humerus, supracondylar"
+CPRD_medcode,318889011,"Open fracture distal radius, intra-articular, die-punch"
+CPRD_medcode,402862016,Open fracture of distal end of radius
+CPRD_medcode,318877014,Open fracture of distal end of ulna
+CPRD_medcode,318799013,"Open fracture of distal humerus, condyle(s) unspecified"
+CPRD_medcode,318805019,"Open fracture of distal humerus, multiple"
+CPRD_medcode,318806018,"Open fracture of distal humerus, not otherwise specified"
+CPRD_medcode,318800012,"Open fracture of distal humerus, trochlea"
+CPRD_medcode,299791000000114,"Open fracture of femur, upper epiphysis"
+CPRD_medcode,6219701000006112,Open fracture of hip
+CPRD_medcode,318777017,Open fracture of humerus
+CPRD_medcode,318778010,Open fracture of humerus NOS
+CPRD_medcode,1223146015,"Open fracture of humerus, shaft"
+CPRD_medcode,318779019,"Open fracture of humerus, shaft or unspecified part NOS"
+CPRD_medcode,318769016,"Open fracture of humerus, upper epiphysis"
+CPRD_medcode,318893017,Open fracture of lower end of forearm
+CPRD_medcode,5510031000006116,Open fracture of lower end of humerus
+CPRD_medcode,3932001000006116,Open fracture of lower end of radius AND ulna 10
+CPRD_medcode,318772011,Open fracture of proximal humerus not otherwise specified
+CPRD_medcode,318764014,"Open fracture of proximal humerus, anatomical neck"
+CPRD_medcode,318762013,"Open fracture of proximal humerus, unspecified part"
+CPRD_medcode,507904017,"Open fracture of radius and ulna, lower end"
+CPRD_medcode,2878911000006117,Open fracture of shaft of humerus
+CPRD_medcode,402856014,Open fracture of the distal humerus
+CPRD_medcode,318876017,"Open fracture of ulna, lower epiphysis"
+CPRD_medcode,318875018,"Open fracture of ulna, styloid process"
+CPRD_medcode,318771016,"Open fracture proximal humerus, four part"
+CPRD_medcode,318767019,"Open fracture proximal humerus, greater tuberosity"
+CPRD_medcode,318768012,"Open fracture proximal humerus, head"
+CPRD_medcode,318763015,"Open fracture proximal humerus, neck"
+CPRD_medcode,318770015,"Open fracture proximal humerus, three part"
+CPRD_medcode,318888015,Open fracture radial styloid
+CPRD_medcode,1495503015,"Open fracture radius and ulna, distal"
+CPRD_medcode,4849161000006119,Open fracture subluxation of the wrist
+CPRD_medcode,318881014,Open Galeazzi fracture
+CPRD_medcode,318891015,Open intra-articular fracture of distal radius
+CPRD_medcode,3894801000006117,Open reduction of fracture of humerus
+CPRD_medcode,7642231000006112,Open reduction of fracture of humerus and internal fixation using Kirschner wire
+CPRD_medcode,3894811000006119,Open reduction of fracture of humerus without internal fixation
+CPRD_medcode,2867301000006113,Open reduction of fracture of radius and ulna
+CPRD_medcode,43041000006111,Open reduction of fracture of spine and excision of facet of spine
+CPRD_medcode,276481010,Open reduction of fracture of spine NEC
+CPRD_medcode,4353811000006112,Open reverse Colles' fracture
+CPRD_medcode,52291000006115,Open Smith's fracture
+CPRD_medcode,3513461000006116,Open supracondylar fracture of humerus
+CPRD_medcode,49851000006119,Open volar Barton fracture-dislocation
+CPRD_medcode,318882019,Open volar Barton's fracture
+CPRD_medcode,312157010,Osteoporosis of disuse with pathological fracture
+CPRD_medcode,40871000006119,Osteoporosis with pathological fracture of cervical vertebrae
+CPRD_medcode,40881000006116,Osteoporosis with pathological fracture of lumbar vertebrae
+CPRD_medcode,40891000006118,Osteoporosis with pathological fracture of thoracic vertebrae
+CPRD_medcode,14504931000006119,Osteoporotic collapse of lumbar vertebra
+CPRD_medcode,14153981000006116,Osteoporotic compression fracture
+CPRD_medcode,14509791000006116,Osteoporotic fracture
+CPRD_medcode,3253881000006112,Osteoporotic fracture
+CPRD_medcode,14501121000006118,Osteoporotic fracture of lumbar vertebra
+CPRD_medcode,14501131000006115,Osteoporotic fracture of thoracic vertebra
+CPRD_medcode,9383961000006112,Osteoporotic fracture of vertebra
+CPRD_medcode,359833013,Osteoporotic vertebral collapse
+CPRD_medcode,394586014,Other reduction of fracture of spine
+CPRD_medcode,411017011,Other reduction of fracture of spine and stabilisation
+CPRD_medcode,276560013,Other reduction of fracture of spine NOS 11
+CPRD_medcode,318443011,Other specified closed fracture thoracic vertebra
+CPRD_medcode,276471011,Other specified decompression of fracture of spine
+CPRD_medcode,276582018,Other specified fixation of fracture of spine
+CPRD_medcode,276559015,Other specified other reduction of fracture of spine
+CPRD_medcode,892461000006118,Path.fracture - upper arm
+CPRD_medcode,216206018,Pathological fracture due to osteoporosis
+CPRD_medcode,405144016,Pathological fracture of lumbar vertebra
+CPRD_medcode,319138019,Pertrochanteric fracture
+CPRD_medcode,4396071000006110,Pertrochanteric fracture of neck of femur
+CPRD_medcode,276470012,Posterior decompression of fracture of spine
+CPRD_medcode,375761000000118,Posterior decompression of fracture of spine NEC
+CPRD_medcode,312165013,Postmenopausal osteoporosis with pathological fracture
+CPRD_medcode,312156018,Postoophorectomy osteoporosis with pathological fracture
+CPRD_medcode,212441000006112,Post-surgical malabsorption osteoporosis with pathological fracture
+CPRD_medcode,208611000006110,Prim op red # nck femur & op fix- Zickel intramed nail plate
+CPRD_medcode,208641000006114,Prim open red # neck femur & op fix - McLaughlin nail plate
+CPRD_medcode,208671000006118,Prim open reduct # neck femur & op fix - Blount nail plate
+CPRD_medcode,208691000006117,Prim open reduct # neck femur & op fix - Jewett nail plate
+CPRD_medcode,208701000006117,Prim open reduct # neck femur & op fix - Massie nail plate
+CPRD_medcode,208711000006119,Prim open reduct # neck femur & op fix - Neufield nail plate
+CPRD_medcode,208721000006110,Prim open reduct # neck femur & op fix - Pugh nail plate
+CPRD_medcode,208751000006118,Prim open reduct # neck femur & op fix - Thornton nail plate
+CPRD_medcode,276487014,Primary bedrest stabilisation of spinal fracture
+CPRD_medcode,276492011,Primary cast stabilisation of spinal fracture
+CPRD_medcode,210151000006118,Primary closed reduction and external fixation of proximal femoral fracture
+CPRD_medcode,208561000006112,Primary closed reduction and internal fixation of proximal femoral fracture with screw/nail and intramedullary device
+CPRD_medcode,210041000006119,Primary closed reduction and internal fixation of proximal femoral fracture with screw/nail and plate device
+CPRD_medcode,210131000006113,Primary closed reduction cervical spine fracture and collar stabilisation
+CPRD_medcode,276510019,Primary closed reduction spinal fracture alone
+CPRD_medcode,210111000006119,Primary closed reduction spinal fracture and bedrest stabilisation
+CPRD_medcode,210121000006110,Primary closed reduction spinal fracture and cast stabilisation
+CPRD_medcode,210141000006115,Primary closed reduction spinal fracture and external fixation
+CPRD_medcode,210051000006117,Primary closed reduction spinal fracture and skull traction stabilisation
+CPRD_medcode,210061000006115,Primary cls reduct spinal fracture+oth external stabilisatn
+CPRD_medcode,276488016,Primary collar stabilisation of cervical spine fracture
+CPRD_medcode,276495013,Primary external fixation stabilisation of spinal fracture
+CPRD_medcode,210531000006116,Primary external fixation(without reduction) of proximal femoral fracture
+CPRD_medcode,210941000006118,Primary internal fixation(without reduction) of proximal femoral fracture with screw/nail and intramedullary device
+CPRD_medcode,210931000006111,Primary internal fixation(without reduction) of proximal femoral fracture with screw/nail and plate device
+CPRD_medcode,204991000006116,Primary open reduc spinal fracture+other internal fix 12
+CPRD_medcode,207591000006115,Primary open reduction and internal fixation of proximal femoral fracture with screw/nail and intramedullary device
+CPRD_medcode,207611000006114,Primary open reduction and internal fixation of proximal femoral fracture with screw/nail and plate device
+CPRD_medcode,205491000006111,Primary open reduction of cervical spine fracture and collar stabilisation
+CPRD_medcode,208601000006112,Primary open reduction of fracture of neck of femur and open fixation using Charnley compression screw
+CPRD_medcode,208591000006116,Primary open reduction of fracture of neck of femur and open fixation using Deyerle multiple hip pinning
+CPRD_medcode,632911000006110,Primary open reduction of fracture of neck of femur and open fixation using dynamic hip screw
+CPRD_medcode,208681000006115,Primary open reduction of fracture of neck of femur and open fixation using Holt nail
+CPRD_medcode,1843951000006113,Primary open reduction of fracture of neck of femur and open fixation using proximal femoral nail antirotation
+CPRD_medcode,208731000006113,Primary open reduction of fracture of neck of femur and open fixation using Richards screw
+CPRD_medcode,208741000006115,Primary open reduction of fracture of neck of femur and open fixation using Ross Brown nail
+CPRD_medcode,276534012,Primary open reduction spinal fracture alone
+CPRD_medcode,205471000006110,Primary open reduction spinal fracture and bedrest stabilisation
+CPRD_medcode,205481000006113,Primary open reduction spinal fracture and cast stabilisation
+CPRD_medcode,276543015,Primary open reduction spinal fracture and external fixation
+CPRD_medcode,204951000006110,Primary open reduction spinal fracture and internal fixation with internal fixator
+CPRD_medcode,204961000006112,Primary open reduction spinal fracture and internal fixation with plate
+CPRD_medcode,204971000006117,Primary open reduction spinal fracture and internal fixation with rod system
+CPRD_medcode,204941000006113,Primary open reduction spinal fracture and internal fixation with segmental wire system
+CPRD_medcode,204981000006119,Primary open reduction spinal fracture and internal fixation with wire
+CPRD_medcode,205451000006117,Primary open reduction spinal fracture and skull traction stabilisation
+CPRD_medcode,205441000006119,Primary opn reduc spinal fracture+other external stabilisatn
+CPRD_medcode,276496014,Primary other external stabilisation of spinal fracture
+CPRD_medcode,276491016,Primary skull traction stabilisation of spinal fracture
+CPRD_medcode,3135821000006113,Reduction of closed humeral shaft fracture with manipulation
+CPRD_medcode,2539071000006119,Reduction of closed humeral supracondylar fracture with manipulation and traction
+CPRD_medcode,3674871000006112,Reduction of closed ulnar styloid fracture
+CPRD_medcode,7167031000006110,Repair of fracture of hip by nailing using fluoroscopic guidance
+CPRD_medcode,4358251000006115,Reversed Colles' fracture
+CPRD_medcode,12217201000006111,Smith fracture
+CPRD_medcode,4358261000006118,Smith's fracture
+CPRD_medcode,318848013,Smith's fracture - closed
+CPRD_medcode,318880010,Smith's fracture - open
+CPRD_medcode,276483013,Spinal extension traction for fracture of spine
+CPRD_medcode,3316971000006112,Spinal fracture 13
+CPRD_medcode,276485018,Spinal traction for fracture of spine NEC
+CPRD_medcode,5462261000006114,Subcapital fracture of neck of femur
+CPRD_medcode,5462321000006110,Subtrochanteric fracture of femur
+CPRD_medcode,5461931000006115,Supracondylar fracture of humerus
+CPRD_medcode,5462291000006118,Transcervical fracture of neck of femur
+CPRD_medcode,4396081000006113,Trochanteric fracture of neck of femur
+CPRD_medcode,370001000000111,Vertebroplasty of fracture of spine
+CPRD_medcode,5462021000006112,Volar Barton fracture
+CPRD_medcode,5462011000006116,Volar Barton's fracture
+CPRD_medcode,1992361000006117,VTE risk assessment - hip fracture
+CPRD_medcode,857661000006110,wedge compression # lumbar spine
+CPRD_medcode,857671000006115,wedge compression # of dorsal spine
+CPRD_medcode,5657741000006112,Wedge fracture of cervical vertebra
+CPRD_medcode,5657961000006114,Wedge fracture of lumbar vertebra
+CPRD_medcode,5657851000006115,Wedge fracture of thoracic vertebra
+CPRD_medcode,6048941000006119,Wedge fracture of vertebra
+CPRD_medcode,2815611000006110,wedging of vertebra
+CPRD_medcode,1495502013,Wrist fracture - open
+CPRD_medcode,895321000006111,#Cervical spine + cord lesion
+CPRD_medcode,895271000006115,#Cervical spine-no cord lesion
+CPRD_medcode,895471000006116,#Humerus
+CPRD_medcode,895501000006111,#Humerus - lower end
+CPRD_medcode,895491000006115,#humerus - shaft
+CPRD_medcode,990961000006119,#Humerus - shaft
+CPRD_medcode,895481000006118,#Humerus - upper end
+CPRD_medcode,895511000006114,#humerus nos
+CPRD_medcode,990971000006114,#Humerus NOS
+CPRD_medcode,895291000006119,#Lumbar spine - no cord lesion
+CPRD_medcode,895341000006116,#Lumbar spine + cord lesion
+CPRD_medcode,895691000006117,#Neck of femur
+CPRD_medcode,895551000006110,#Radius/ulna-lower end-colles
+CPRD_medcode,990941000006118,#Spine NOS - no cord lesion
+CPRD_medcode,895331000006114,#Thoracic spine + cord lesion
+CPRD_medcode,895281000006117,#Thoracic spine-no cord lesion
+CPRD_medcode,312681016,[X]Other osteoporosis with pathological fracture
+CPRD_medcode,312689019,[X]Unspecified osteoporosis with pathological fracture

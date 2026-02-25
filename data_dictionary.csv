@@ -1,0 +1,14 @@
+file,column,description
+fragility_fractures_cprd_medcodes.csv,code_system,Coding system identifier.
+fragility_fractures_cprd_medcodes.csv,medcode_id,CPRD medcode identifier used to flag fragility fracture events.
+fragility_fractures_cprd_medcodes.csv,description,Human-readable term/label as listed in Table S1.
+fragility_fractures_icd10_codes.csv,code_system,Coding system identifier.
+fragility_fractures_icd10_codes.csv,icd10_code,ICD-10 code used to flag fragility fracture events.
+fragility_fractures_icd10_codes.csv,description,ICD-10 description as listed in Table S1.
+fragility_fractures_icd10_codes.csv,site,"Site/qualifier column from Table S1 when present (e.g., shoulder region, closed/open)."
+atypical_fractures_cprd_medcodes.csv,code_system,Coding system identifier.
+atypical_fractures_cprd_medcodes.csv,medcode_id,CPRD medcode identifier used to flag atypical fracture events.
+atypical_fractures_cprd_medcodes.csv,description,Human-readable term/label as listed in Table S1.
+atypical_fractures_icd10_codes.csv,code_system,Coding system identifier.
+atypical_fractures_icd10_codes.csv,icd10_code,ICD-10 code used to flag atypical fracture events.
+atypical_fractures_icd10_codes.csv,description,ICD-10 description as listed in Table S1.

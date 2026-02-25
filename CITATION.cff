@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "If you use this repository, please cite it using the DOI from the archived release."
+title: "Code lists and analytic code for ONJ adjudication for "Fragility fractures, atypical femoral fractures, and osteonecrosis of jaw after initial bisphosphonate treatment for 3 and 5 years: Linked English primary care, hospitalisation and mortality data"
+authors:
+  - Georgina Nakafero, Tricia McKeever, Niraj S Kumar, Victoria Walsh, Sara Muller, Abhishek Abhishek
+version: "v1.0.0"
+date-released: "2026-02-25"
+
