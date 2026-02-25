@@ -44,6 +44,10 @@ CPRD/HES data are not publicly shareable. Reproducing the full pipeline requires
 ## Licenses
 - Code lists and documentation: see `LICENSE_CODELISTS.txt` (CC BY 4.0)
 
+## Funding
+This work was funded by the National Institute for Health and Care Research (NIHR) Research for Patient Benefit (RfPB) programme (Award: NIHR205348). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
+
+
 
 
 
