@@ -1,9 +1,5 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it using the DOI from the archived release."
-title: "Code lists and analytic code for ONJ adjudication for "Fragility fractures, atypical femoral fractures, and osteonecrosis of jaw after initial bisphosphonate treatment for 3 and 5 years: Linked English primary care, hospitalisation and mortality data"
-version: "v1.0.0"
-date-released: "2026-02-25"
-url: "https://github.com/nkumar4925/bisphosphonate_cprd"
 authors:
   - family-names: "Nakafero"
     given-names: "Georgina"
@@ -17,3 +13,7 @@ authors:
     given-names: "Sara"
   - family-names: "Abhishek"
     given-names: "Abhishek"
+title: "Code lists and analytic code for ONJ adjudication for "Fragility fractures, atypical femoral fractures, and osteonecrosis of jaw after initial bisphosphonate treatment for 3 and 5 years: Linked English primary care, hospitalisation and mortality data"
+version: "v1.0.0"
+date-released: "2026-02-25"
+url: "https://github.com/nkumar4925/bisphosphonate_cprd"
